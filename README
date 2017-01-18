@@ -1,0 +1,5 @@
+Author: Mitchell Godak
+
+This is a Rubik's Cube program I made to model and manipulate a Rubik's cube object. The Cube.c/h files contain the code for the Rubik's
+cube object, and the Cube_Program.c/h files contain code that provides a simple Windows command line interface to interact with a cube
+object.
